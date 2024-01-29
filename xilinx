@@ -1,0 +1,1631 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sun Jan 28 22:17:43 UTC 2024.
+#
+# This is license NODELOCKED to HOSTID=089204e2e892;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v5_emac xilinxd 2025.01 permanent uncounted 7519AB1CCBAB \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v5_emac,ip,permanent,_212956821_1777583258_0_846 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v5_emac_v1
+FEATURE v5_emac_v1 xilinxd 1.0 permanent uncounted 2CCAE624E769 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ISE_WebPACK xilinxd 2025.01 permanent uncounted \
+C5BB9812982A \
+VENDOR_STRING=vsl@hrl.com,ISE_WebPACK,software,permanent,_212956821_1777583258_0_370 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=28-Jan-2024 TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT apu_fpu_sp xilinxd 2025.01 permanent uncounted 4EE3B6343BED \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,apu_fpu_sp,ip,permanent,_212956821_1777583258_0_408 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for apu_fpu_v2
+FEATURE apu_fpu_v2 xilinxd 1.0 permanent uncounted 264087E324ED \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for apu_fpu_virtex5_v1
+FEATURE apu_fpu_virtex5_v1 xilinxd 1.0 permanent uncounted \
+727B31374C9C VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT MEbuild xilinxd 2025.01 permanent uncounted 3529D65BCC52 \
+VENDOR_STRING=vsl@hrl.com,MEbuild,software,permanent,_212956821_1777583258_0_246 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT MEsim xilinxd 2025.01 permanent uncounted 09A05BFD6F73 \
+VENDOR_STRING=vsl@hrl.com,MEsim,software,permanent,_212956821_1777583258_0_229 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT AIEsim xilinxd 2025.01 permanent uncounted 9096A9C24032 \
+VENDOR_STRING=vsl@hrl.com,AIEsim,software,permanent,_212956821_1777583258_0_764 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT AIEbuild xilinxd 2025.01 permanent uncounted 4A323AF05A74 \
+VENDOR_STRING=vsl@hrl.com,AIEbuild,software,permanent,_212956821_1777583258_0_263 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT AIE2sim xilinxd 2025.01 permanent uncounted CDF559372AE7 \
+VENDOR_STRING=vsl@hrl.com,AIE2sim,software,permanent,_212956821_1777583258_0_067 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT AIE2build xilinxd 2025.01 permanent uncounted 8679DB3C4854 \
+VENDOR_STRING=vsl@hrl.com,AIE2build,software,permanent,_212956821_1777583258_0_406 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT aurora xilinxd 2025.01 permanent uncounted 1FB31C3467E5 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,aurora,ip,permanent,_212956821_1777583258_0_202 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for aurora_v3
+FEATURE aurora_v3 xilinxd 1.0 permanent uncounted 99093101AD5C \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for aurora_v2
+FEATURE aurora_v2 xilinxd 1.0 permanent uncounted B73DDDD1363D \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT aurora_8b10b xilinxd 2025.01 permanent uncounted \
+B3039EEF30CC \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,aurora_8b10b,ip,permanent,_212956821_1777583258_0_744 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for aurora_8b10b_v4
+FEATURE aurora_8b10b_v4 xilinxd 1.0 permanent uncounted 03CF1F4E160A \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT opb_uart16550 xilinxd 2025.01 permanent uncounted \
+22C86DDB8FC8 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,opb_uart16550,ip,permanent,_212956821_1777583258_0_407 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for opb_uart16550_v1
+FEATURE opb_uart16550_v1 xilinxd 1.0 permanent uncounted A7A876153384 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for opb_uart16550_v1_00_c
+FEATURE opb_uart16550_v1_00_c xilinxd 1.0 permanent uncounted \
+D1937DA33E84 VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT plb_uart16550 xilinxd 2025.01 permanent uncounted \
+7EA3C27E2A29 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,plb_uart16550,ip,permanent,_212956821_1777583258_0_144 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for plb_uart16550_v1_00_b
+FEATURE plb_uart16550_v1_00_b xilinxd 1.0 permanent uncounted \
+15724CECF2CC VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for plb_uart16550_v1_00_c
+FEATURE plb_uart16550_v1_00_c xilinxd 1.0 permanent uncounted \
+0DDD15487534 VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xps_uart16550 xilinxd 2025.01 permanent uncounted \
+82F4BC2A9920 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,xps_uart16550,ip,permanent,_212956821_1777583258_0_365 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for xps_uart16550_v1
+FEATURE xps_uart16550_v1 xilinxd 1.0 permanent uncounted 7B7F392326B6 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT s6_pcie xilinxd 2025.01 permanent uncounted A7B89CB03784 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,s6_pcie,ip,permanent,_212956821_1777583258_0_961 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for s6_pcie_v1
+FEATURE s6_pcie_v1 xilinxd 1.0 permanent uncounted 81AF7F014883 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ethernet_statistics xilinxd 2025.01 permanent uncounted \
+26B993992968 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,ethernet_statistics,ip,permanent,_212956821_1777583258_0_548 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for ethernet_statistics_v3
+FEATURE ethernet_statistics_v3 xilinxd 1.0 permanent uncounted \
+691DC514579E VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for ethernet_statistics_v1
+FEATURE ethernet_statistics_v1 xilinxd 1.0 permanent uncounted \
+478749F623D4 VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for ethernet_statistics_v2
+FEATURE ethernet_statistics_v2 xilinxd 1.0 permanent uncounted \
+BC246F691939 VENDOR_STRING=License_Type:Bought \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v4_emac xilinxd 2025.01 permanent uncounted 3C7B63048F18 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v4_emac,ip,permanent,_212956821_1777583258_0_148 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v4_emac_v4
+FEATURE v4_emac_v4 xilinxd 1.0 permanent uncounted DC7DFF31FCB3 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT Embedded_SDK xilinxd 2025.01 permanent uncounted \
+3E85DC9EE67A \
+VENDOR_STRING=vsl@hrl.com,Embedded_SDK,software,permanent,_212956821_1777583258_0_249 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_mix xilinxd 2025.01 permanent uncounted 93EBD93A9495 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_mix,ip,permanent,_212956821_1777583258_0_706 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xaui xilinxd 2025.01 permanent uncounted 3BB3B2A5F002 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,xaui,ip,permanent,_212956821_1777583258_0_264 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for xaui_v6
+FEATURE xaui_v6 xilinxd 1.0 permanent uncounted 38DC1B483AB5 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v3_0
+FEATURE xaui_v3_0 xilinxd 1.0 permanent uncounted 29DF4901CCF3 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v8
+FEATURE xaui_v8 xilinxd 1.0 permanent uncounted 13F1BD0A1A17 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v5_0
+FEATURE xaui_v5_0 xilinxd 1.0 permanent uncounted 42577723C8DD \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v7
+FEATURE xaui_v7 xilinxd 1.0 permanent uncounted 30E6F8EF4622 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v4_0
+FEATURE xaui_v4_0 xilinxd 1.0 permanent uncounted 1B641E86ACA0 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_warp_filter xilinxd 2025.01 permanent uncounted \
+AB543DC1B3BD \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_warp_filter,ip,permanent,_212956821_1777583258_0_025 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_warp_init xilinxd 2025.01 permanent uncounted \
+8D152D980DE3 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_warp_init,ip,permanent,_212956821_1777583258_0_944 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT warp_init xilinxd 2025.01 permanent uncounted 737B36957F5D \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,warp_init,ip,permanent,_212956821_1777583258_0_767 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT warp_filter xilinxd 2025.01 permanent uncounted \
+F476BDF2DE96 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,warp_filter,ip,permanent,_212956821_1777583258_0_042 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT opb_iic xilinxd 2025.01 permanent uncounted 9237B5C1BA80 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,opb_iic,ip,permanent,_212956821_1777583258_0_724 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for opb_iic_v1
+FEATURE opb_iic_v1 xilinxd 1.0 permanent uncounted 4D932E22B981 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for opb_iic_v1_01_a
+FEATURE opb_iic_v1_01_a xilinxd 1.0 permanent uncounted 756E68187CA9 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for opb_iic_v1_01_b
+FEATURE opb_iic_v1_01_b xilinxd 1.0 permanent uncounted FF959553E0E6 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xps_iic xilinxd 2025.01 permanent uncounted AF41CDD6FF46 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,xps_iic,ip,permanent,_212956821_1777583258_0_144 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for xps_iic_v2
+FEATURE xps_iic_v2 xilinxd 1.0 permanent uncounted 9E045729AC0B \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xps_iic_v1
+FEATURE xps_iic_v1 xilinxd 1.0 permanent uncounted F298A5A8C1FC \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+#  This license is valid for evaluation ( 365 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT PetaLinux_NoSuport_Eval xilinxd 2025.01 28-jan-2025 \
+uncounted 5167C6F78A3C \
+VENDOR_STRING=vsl@hrl.com,PetaLinux_NoSuport_Eval,software,evaluation,_212956821_1777583258_0_407 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT TPG xilinxd 2025.01 permanent uncounted C1DDC34A4DDE \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,TPG,ip,permanent,_212956821_1777583258_0_405 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT SDAccel xilinxd 2025.01 28-feb-2024 uncounted 568F3A6ECFDD \
+VENDOR_STRING=vsl@hrl.com,SDAccel,software,evaluation,_212956821_1777583258_0_222 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT Vitis_HLS xilinxd 2025.01 permanent uncounted 6C200C8F23D2 \
+VENDOR_STRING=vsl@hrl.com,Vitis_HLS,software,permanent,_212956821_1777583258_0_623 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_ycrcb2rgb xilinxd 2025.01 permanent uncounted \
+0DC19F9FE150 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_ycrcb2rgb,ip,permanent,_212956821_1777583258_0_365 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for  v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 permanent uncounted B0E5DBD3B7CE \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_timebase xilinxd 2025.01 permanent uncounted 553737A7E5D2 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_timebase,ip,permanent,_212956821_1777583258_0_367 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT cmac xilinxd 2025.01 permanent uncounted C9ABA2C33D8E \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,cmac,ip,permanent,_212956821_1777583258_0_540 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT aurora_64b66b xilinxd 2025.01 permanent uncounted \
+F47A5256C6EA \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,aurora_64b66b,ip,permanent,_212956821_1777583258_0_803 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for aurora_64b66b_v1
+FEATURE aurora_64b66b_v1 xilinxd 1.0 permanent uncounted 9A4C7887709E \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for aurora_64b66b_v2
+FEATURE aurora_64b66b_v2 xilinxd 1.0 permanent uncounted 38A8C4ACC7A2 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT aurora xilinxd 2025.01 permanent uncounted 3DF95BB366DB \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,aurora,ip,permanent,_212956821_1777583258_0_503 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for aurora_v3
+FEATURE aurora_v3 xilinxd 1.0 permanent uncounted 99093101AD5C \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for aurora_v2
+FEATURE aurora_v2 xilinxd 1.0 permanent uncounted B73DDDD1363D \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_timebase xilinxd 2025.01 permanent uncounted 8A8DA1429FFE \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_timebase,ip,permanent,_212956821_1777583258_0_900 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_tc xilinxd 2025.01 permanent uncounted FF96BFBCB1FB \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_tc,ip,permanent,_212956821_1777583258_0_640 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT cmac_usplus xilinxd 2025.01 permanent uncounted \
+97CE08364C15 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,cmac_usplus,ip,permanent,_212956821_1777583258_0_924 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ISE_Embedded_Edition xilinxd 2025.01 permanent uncounted \
+0809B9926EE4 \
+VENDOR_STRING=vsl@hrl.com,ISE_Embedded_Edition,software,permanent,_212956821_1777583258_0_902 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU28DR xilinxd 2025.01 permanent uncounted D61B196FC874 \
+VENDOR_STRING=vsl@hrl.com,XCZU28DR,software,permanent,_212956821_1777583258_210786238_309 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU28DR-ES1 xilinxd 2025.01 permanent uncounted \
+E3C1FACB7A5C \
+VENDOR_STRING=vsl@hrl.com,XCZU28DR-ES1,software,permanent,_212956821_1777583258_210786238_846 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU28DR-ES1_bitgen xilinxd 2025.01 permanent uncounted \
+41EF77FDD638 \
+VENDOR_STRING=vsl@hrl.com,XCZU28DR-ES1_bitgen,software,permanent,_212956821_1777583258_210786238_301 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT board_vivado_system_edition xilinxd 2025.01 permanent \
+uncounted 3DD3402C30A5 \
+VENDOR_STRING=vsl@hrl.com,board_vivado_system_edition,software,permanent,_212956821_1777583258_210786238_347 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 90 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ModelComposer xilinxd 2025.01 28-apr-2024 uncounted \
+1770665BC7A4 \
+VENDOR_STRING=vsl@hrl.com,ModelComposer,software,evaluation,_212956821_1777583258_0_246 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 90 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT SysGen xilinxd 2025.01 28-apr-2024 uncounted BAB03428AD8B \
+VENDOR_STRING=vsl@hrl.com,SysGen,software,evaluation,_212956821_1777583258_0_946 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_rgb2ycrcb xilinxd 2025.01 permanent uncounted \
+53675B4B8FC3 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_rgb2ycrcb,ip,permanent,_212956821_1777583258_0_460 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 permanent uncounted 152B54834E6F \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_timebase xilinxd 2025.01 permanent uncounted 0EC387D64F62 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_timebase,ip,permanent,_212956821_1777583258_0_162 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v6_pcie xilinxd 2025.01 permanent uncounted 54B4C9555BAC \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v6_pcie,ip,permanent,_212956821_1777583258_0_109 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v6_pcie_v1
+FEATURE v6_pcie_v1 xilinxd 1.0 permanent uncounted F34D268875A2 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT SDK xilinxd 2025.01 permanent uncounted 74BA0ED1AA5E \
+VENDOR_STRING=vsl@hrl.com,SDK,software,permanent,_212956821_1777583258_0_143 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=28-Jan-2024 TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT V_WebPACK xilinxd 2025.01 permanent uncounted AB0B9E0837FA \
+VENDOR_STRING=vsl@hrl.com,V_WebPACK,software,permanent,_212956821_1777583258_0_640 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=28-Jan-2024 TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT Analyzer xilinxd 2025.01 permanent uncounted 8D0EC3885E4F \
+VENDOR_STRING=vsl@hrl.com,Analyzer,software,permanent,_212956821_1777583258_0_422 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=28-Jan-2024 TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT HLS xilinxd 2025.01 permanent uncounted 8F4986B4F089 \
+VENDOR_STRING=vsl@hrl.com,HLS,software,permanent,_212956821_1777583258_0_444 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=28-Jan-2024 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT SDSoC_Tools xilinxd 2025.01 29-mar-2024 uncounted \
+B6E18EFE5564 \
+VENDOR_STRING=vsl@hrl.com,SDSoC_Tools,software,evaluation,_212956821_1777583258_0_501 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ap_sdsoc xilinxd 2025.01 29-mar-2024 uncounted 08A33B6CC0CB \
+VENDOR_STRING=vsl@hrl.com,ap_sdsoc,software,evaluation,_212956821_1777583258_0_545 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ap_cc xilinxd 2025.01 29-mar-2024 uncounted 8EDDC3B442B8 \
+VENDOR_STRING=vsl@hrl.com,ap_cc,software,evaluation,_212956821_1777583258_0_546 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_cresample xilinxd 2025.01 29-mar-2024 uncounted \
+AA3D50EBD279 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_cresample,ip,evaluation,_212956821_1777583258_0_620 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_cresample
+FEATURE v_cresample xilinxd 1.0 29-mar-2024 uncounted CE3B53DDCD25 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_osd xilinxd 2025.01 29-mar-2024 uncounted 9181FF8D8894 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_osd,ip,evaluation,_212956821_1777583258_0_826 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_osd
+FEATURE v_osd xilinxd 1.0 29-mar-2024 uncounted B9E9E16EEE21 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for v_osd_v1_0
+FEATURE v_osd_v1_0 xilinxd 1.0 29-mar-2024 uncounted B0E77DCBCCCC \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_rgb2ycrcd xilinxd 2025.01 29-mar-2024 uncounted \
+6B8B9BD12B22 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_rgb2ycrcd,ip,evaluation,_212956821_1777583258_0_620 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_rgb2ycrcb
+FEATURE v_rgb2ycrcb xilinxd 1.0 29-mar-2024 uncounted 47DF4CC43BB0 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 29-mar-2024 uncounted F65FAFCB1AB9 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_tc xilinxd 2025.01 29-mar-2024 uncounted AC39C1B6B0D3 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_tc,ip,evaluation,_212956821_1777583258_0_529 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_tc
+FEATURE v_tc xilinxd 1.0 29-mar-2024 uncounted 686AFE84F015 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_tpg xilinxd 2025.01 29-mar-2024 uncounted 534DE0186CB0 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_tpg,ip,evaluation,_212956821_1777583258_0_703 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_tpg
+FEATURE v_tpg xilinxd 1.0 29-mar-2024 uncounted B8BC75A76B05 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_ycrcb2rgb_v2 xilinxd 2025.01 29-mar-2024 uncounted \
+2051EF6B56AE \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_ycrcb2rgb_v2,ip,evaluation,_212956821_1777583258_0_521 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 29-mar-2024 uncounted 3276DD9C8C73 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_ycrcb2rgb xilinxd 2025.01 29-mar-2024 uncounted \
+AD4F384FABD3 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_ycrcb2rgb,ip,evaluation,_212956821_1777583258_0_020 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_ycrcb2rgb
+FEATURE v_ycrcb2rgb xilinxd 1.0 29-mar-2024 uncounted 3704D22B3B2E \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_rgb2ycrcb_v2 xilinxd 2025.01 29-mar-2024 uncounted \
+94429590C6FB \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_rgb2ycrcb_v2,ip,evaluation,_212956821_1777583258_0_122 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU9EG-ES1_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+2C4B99764038 \
+VENDOR_STRING=vsl@hrl.com,XCZU9EG-ES1_bitgen,software,evaluation,_212956821_1777583258_0_009 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu9eg-es1 xilinxd 2025.01 29-mar-2024 uncounted \
+7938505F7BFB \
+VENDOR_STRING=vsl@hrl.com,xczu9eg-es1,software,evaluation,_212956821_1777583258_0_344 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU9EG-ES2_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+7CE2A552596F \
+VENDOR_STRING=vsl@hrl.com,XCZU9EG-ES2_bitgen,software,evaluation,_212956821_1777583258_0_903 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU3EG-ES1_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+C4ED0101FE48 \
+VENDOR_STRING=vsl@hrl.com,XCZU3EG-ES1_bitgen,software,evaluation,_212956821_1777583258_0_929 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu3eg-es1 xilinxd 2025.01 29-mar-2024 uncounted \
+803B00E16C50 \
+VENDOR_STRING=vsl@hrl.com,xczu3eg-es1,software,evaluation,_212956821_1777583258_0_747 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU15EG-ES1_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+AA359A8C7768 \
+VENDOR_STRING=vsl@hrl.com,XCZU15EG-ES1_bitgen,software,evaluation,_212956821_1777583258_0_721 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU15EG-ES1 xilinxd 2025.01 29-mar-2024 uncounted \
+DC11D0694C70 \
+VENDOR_STRING=vsl@hrl.com,XCZU15EG-ES1,software,evaluation,_212956821_1777583258_0_122 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU19EG-ES2_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+6B138E0D6527 \
+VENDOR_STRING=vsl@hrl.com,XCZU19EG-ES2_bitgen,software,evaluation,_212956821_1777583258_0_524 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU19EG-ES2 xilinxd 2025.01 29-mar-2024 uncounted \
+842FABAB0E45 \
+VENDOR_STRING=vsl@hrl.com,XCZU19EG-ES2,software,evaluation,_212956821_1777583258_0_928 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU9EG-ES2 xilinxd 2025.01 29-mar-2024 uncounted \
+477DD69C2D13 \
+VENDOR_STRING=vsl@hrl.com,XCZU9EG-ES2,software,evaluation,_212956821_1777583258_0_941 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_proc_ss xilinxd 2025.01 29-mar-2024 uncounted \
+AC5E9F0D8CA4 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_proc_ss,ip,evaluation,_212956821_1777583258_0_668 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_proc_ss
+FEATURE v_proc_ss xilinxd 1.0 29-mar-2024 uncounted 43557B3CFBE3 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_mix xilinxd 2025.01 29-mar-2024 uncounted 81F89D997444 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_mix,ip,evaluation,_212956821_1777583258_0_246 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_mix
+FEATURE v_mix xilinxd 1.0 29-mar-2024 uncounted 8C20C92C36EB \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT mipi_csi2_rx_ctrl xilinxd 2025.01 29-mar-2024 uncounted \
+96DF4B8C3F05 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,mipi_csi2_rx_ctrl,ip,evaluation,_212956821_1777583258_0_064 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for mipi_csi2_rx_ctrl
+FEATURE mipi_csi2_rx_ctrl xilinxd 1.0 29-mar-2024 uncounted \
+08DE333A721D VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_hdmi xilinxd 2025.01 29-mar-2024 uncounted E7DECFC75729 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;vsl@hrl.com,v_hdmi,ip,evaluation,_212956821_1777583258_0_628 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v_hdmi
+FEATURE v_hdmi xilinxd 1.0 29-mar-2024 uncounted 225F4106A1D2 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=089204e2e892 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for vsl@hrl.com on 01/29/2024It \
+is the responsibility of the Licensee of this core to adhere \
+to all terms and conditions of the applicable license \
+agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU9EG xilinxd 2025.01 29-mar-2024 uncounted 90035232B214 \
+VENDOR_STRING=vsl@hrl.com,XCZU9EG,software,evaluation,_212956821_1777583258_0_965 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xazu2eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+07612C8EBC68 \
+VENDOR_STRING=vsl@hrl.com,xazu2eg_bitgen,software,evaluation,_212956821_1777583258_0_368 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU2EG-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+6FF666C74457 \
+VENDOR_STRING=vsl@hrl.com,XCZU2EG-EVAL,software,evaluation,_212956821_1777583258_0_446 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU4EV-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+1C36A5CCB81D \
+VENDOR_STRING=vsl@hrl.com,XCZU4EV-EVAL,software,evaluation,_212956821_1777583258_0_600 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4ev xilinxd 2025.01 29-mar-2024 uncounted 3E62858C87DF \
+VENDOR_STRING=vsl@hrl.com,xczu4ev,software,evaluation,_212956821_1777583258_0_763 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu5ev xilinxd 2025.01 29-mar-2024 uncounted FFDDB800C75A \
+VENDOR_STRING=vsl@hrl.com,xczu5ev,software,evaluation,_212956821_1777583258_0_368 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU5EV-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+3960C35070DE \
+VENDOR_STRING=vsl@hrl.com,XCZU5EV-EVAL,software,evaluation,_212956821_1777583258_0_960 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7ev xilinxd 2025.01 29-mar-2024 uncounted F8D9B19B817D \
+VENDOR_STRING=vsl@hrl.com,xczu7ev,software,evaluation,_212956821_1777583258_0_467 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7ev_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+C740953B49FF \
+VENDOR_STRING=vsl@hrl.com,xczu7ev_bitgen,software,evaluation,_212956821_1777583258_0_009 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU11EG-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+5A9879A49693 \
+VENDOR_STRING=vsl@hrl.com,XCZU11EG-EVAL,software,evaluation,_212956821_1777583258_0_740 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu2cg xilinxd 2025.01 29-mar-2024 uncounted F3018BB0ECDF \
+VENDOR_STRING=vsl@hrl.com,xczu2cg,software,evaluation,_212956821_1777583258_0_726 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu2cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+CA64D2041802 \
+VENDOR_STRING=vsl@hrl.com,xczu2cg_bitgen,software,evaluation,_212956821_1777583258_0_704 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu3cg xilinxd 2025.01 29-mar-2024 uncounted 78F0864ACC96 \
+VENDOR_STRING=vsl@hrl.com,xczu3cg,software,evaluation,_212956821_1777583258_0_329 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu3cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+D21476098815 \
+VENDOR_STRING=vsl@hrl.com,xczu3cg_bitgen,software,evaluation,_212956821_1777583258_0_047 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4ev_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+CE2AE835D09C \
+VENDOR_STRING=vsl@hrl.com,xczu4ev_bitgen,software,evaluation,_212956821_1777583258_0_527 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu2eg xilinxd 2025.01 29-mar-2024 uncounted 429734FF5115 \
+VENDOR_STRING=vsl@hrl.com,xczu2eg,software,evaluation,_212956821_1777583258_0_822 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu2eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+B2937485CC74 \
+VENDOR_STRING=vsl@hrl.com,xczu2eg_bitgen,software,evaluation,_212956821_1777583258_0_862 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu3eg xilinxd 2025.01 29-mar-2024 uncounted 2BCB44426B8B \
+VENDOR_STRING=vsl@hrl.com,xczu3eg,software,evaluation,_212956821_1777583258_0_526 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu3eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+BAC04220C8B3 \
+VENDOR_STRING=vsl@hrl.com,xczu3eg_bitgen,software,evaluation,_212956821_1777583258_0_501 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4eg xilinxd 2025.01 29-mar-2024 uncounted 76E7C463B39D \
+VENDOR_STRING=vsl@hrl.com,xczu4eg,software,evaluation,_212956821_1777583258_0_840 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+90E0FED8943C \
+VENDOR_STRING=vsl@hrl.com,xczu4eg_bitgen,software,evaluation,_212956821_1777583258_0_166 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4cg xilinxd 2025.01 29-mar-2024 uncounted 4BC294254432 \
+VENDOR_STRING=vsl@hrl.com,xczu4cg,software,evaluation,_212956821_1777583258_0_443 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu4cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+A58250F05EBC \
+VENDOR_STRING=vsl@hrl.com,xczu4cg_bitgen,software,evaluation,_212956821_1777583258_0_908 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu5eg xilinxd 2025.01 29-mar-2024 uncounted 204D81170463 \
+VENDOR_STRING=vsl@hrl.com,xczu5eg,software,evaluation,_212956821_1777583258_0_804 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu5eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+E075E62846F9 \
+VENDOR_STRING=vsl@hrl.com,xczu5eg_bitgen,software,evaluation,_212956821_1777583258_0_125 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu5cg xilinxd 2025.01 29-mar-2024 uncounted 3D5DE82A7F63 \
+VENDOR_STRING=vsl@hrl.com,xczu5cg,software,evaluation,_212956821_1777583258_0_768 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu5cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+56A5342C3CB9 \
+VENDOR_STRING=vsl@hrl.com,xczu5cg_bitgen,software,evaluation,_212956821_1777583258_0_143 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7eg xilinxd 2025.01 29-mar-2024 uncounted C863019142C5 \
+VENDOR_STRING=vsl@hrl.com,xczu7eg,software,evaluation,_212956821_1777583258_0_606 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+FC78199C73F7 \
+VENDOR_STRING=vsl@hrl.com,xczu7eg_bitgen,software,evaluation,_212956821_1777583258_0_460 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7cg xilinxd 2025.01 29-mar-2024 uncounted 495F1CC46DF5 \
+VENDOR_STRING=vsl@hrl.com,xczu7cg,software,evaluation,_212956821_1777583258_0_122 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu7cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+64BD6DD2736F \
+VENDOR_STRING=vsl@hrl.com,xczu7cg_bitgen,software,evaluation,_212956821_1777583258_0_044 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU6EG-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+A282AFA26566 \
+VENDOR_STRING=vsl@hrl.com,XCZU6EG-EVAL,software,evaluation,_212956821_1777583258_0_320 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu6eg xilinxd 2025.01 29-mar-2024 uncounted 43C3D8599933 \
+VENDOR_STRING=vsl@hrl.com,xczu6eg,software,evaluation,_212956821_1777583258_0_242 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu6eg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+C8A209A9E194 \
+VENDOR_STRING=vsl@hrl.com,xczu6eg_bitgen,software,evaluation,_212956821_1777583258_0_107 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu6cg xilinxd 2025.01 29-mar-2024 uncounted 0F3F8D085433 \
+VENDOR_STRING=vsl@hrl.com,xczu6cg,software,evaluation,_212956821_1777583258_0_300 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu6cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+DA0C622DA6B0 \
+VENDOR_STRING=vsl@hrl.com,xczu6cg_bitgen,software,evaluation,_212956821_1777583258_0_848 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu9cg xilinxd 2025.01 29-mar-2024 uncounted CD479FD338F5 \
+VENDOR_STRING=vsl@hrl.com,xczu9cg,software,evaluation,_212956821_1777583258_0_604 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu9cg_bitgen xilinxd 2025.01 29-mar-2024 uncounted \
+82F9AA470C13 \
+VENDOR_STRING=vsl@hrl.com,xczu9cg_bitgen,software,evaluation,_212956821_1777583258_0_649 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu11eg xilinxd 2025.01 29-mar-2024 uncounted 431E010C1F36 \
+VENDOR_STRING=vsl@hrl.com,xczu11eg,software,evaluation,_212956821_1777583258_0_960 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu15eg xilinxd 2025.01 29-mar-2024 uncounted 7CD04FA4E55E \
+VENDOR_STRING=vsl@hrl.com,xczu15eg,software,evaluation,_212956821_1777583258_0_102 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU17EG-EVAL xilinxd 2025.01 29-mar-2024 uncounted \
+69C24CC7DECC \
+VENDOR_STRING=vsl@hrl.com,XCZU17EG-EVAL,software,evaluation,_212956821_1777583258_0_228 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xczu17eg xilinxd 2025.01 29-mar-2024 uncounted 44EE923DC62D \
+VENDOR_STRING=vsl@hrl.com,xczu17eg,software,evaluation,_212956821_1777583258_0_842 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT XCZU19EG xilinxd 2025.01 29-mar-2024 uncounted CEC2EECB7461 \
+VENDOR_STRING=vsl@hrl.com,XCZU19EG,software,evaluation,_212956821_1777583258_0_846 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT mrmac xilinxd 2025.01 permanent uncounted 7C0A68A6912B \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,mrmac,ip,permanent,_212956821_1777583258_0_466 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ISE_Embedded_Edition xilinxd 2025.01 28-feb-2024 uncounted \
+6E91EF2F8BB6 \
+VENDOR_STRING=vsl@hrl.com,ISE_Embedded_Edition,software,evaluation,_212956821_1777583258_0_166 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sun Jan 28 22:17:43 UTC 2024
+INCREMENT Vivado_ML_Enterprise_Edition xilinxd 2025.01 28-feb-2024 \
+uncounted 7B28D34F792C \
+VENDOR_STRING=vsl@hrl.com,Vivado_ML_Enterprise_Edition,software,evaluation,_212956821_1777583258_0_367 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT xaui xilinxd 2025.01 permanent uncounted 7C25345AD201 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,xaui,ip,permanent,_212956821_1777583258_0_524 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for xaui_v6
+FEATURE xaui_v6 xilinxd 1.0 permanent uncounted 38DC1B483AB5 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v3_0
+FEATURE xaui_v3_0 xilinxd 1.0 permanent uncounted 29DF4901CCF3 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v8
+FEATURE xaui_v8 xilinxd 1.0 permanent uncounted 13F1BD0A1A17 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v5_0
+FEATURE xaui_v5_0 xilinxd 1.0 permanent uncounted 42577723C8DD \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v7
+FEATURE xaui_v7 xilinxd 1.0 permanent uncounted 30E6F8EF4622 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# Licenses for xaui_v4_0
+FEATURE xaui_v4_0 xilinxd 1.0 permanent uncounted 1B641E86ACA0 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT rxaui xilinxd 2025.01 permanent uncounted 2A8FDF5E1C48 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,rxaui,ip,permanent,_212956821_1777583258_0_422 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v_proc_ss xilinxd 2025.01 permanent uncounted FBB0521DF64C \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v_proc_ss,ip,permanent,_212956821_1777583258_0_827 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT ten_gig_eth_pcs_pma xilinxd 2025.01 permanent uncounted \
+7EFF4AAB4EBB \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,ten_gig_eth_pcs_pma,ip,permanent,_212956821_1777583258_0_701 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT pcie_blk_plus xilinxd 2025.01 permanent uncounted \
+BA51829BB6D6 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,pcie_blk_plus,ip,permanent,_212956821_1777583258_0_622 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for pcie_blk_plus_v1
+FEATURE pcie_blk_plus_v1 xilinxd 1.0 permanent uncounted 9EC0DE1DFA63 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+# This is a permanent license generated on Sun Jan 28 22:17:43 UTC 2024
+INCREMENT v6_emac xilinxd 2025.01 permanent uncounted D7670109D5E0 \
+VENDOR_STRING=License_Type:Bought;vsl@hrl.com,v6_emac,ip,permanent,_212956821_1777583258_0_248 \
+HOSTID=089204e2e892 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for vsl@hrl.com on \
+01/29/2024It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=28-Jan-2024 \
+TS_OK
+#
+# Licenses for v6_emac_v1
+FEATURE v6_emac_v1 xilinxd 1.0 permanent uncounted 0CBD8F32D798 \
+VENDOR_STRING=License_Type:Bought HOSTID=089204e2e892 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for vsl@hrl.com on 01/29/2024It is the \
+responsibility of the Licensee of this core to adhere to all \
+terms and conditions of the applicable license agreement when \
+using this core." TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2025.01 1F00EDF0000D COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Embedded_SDK xilinxd 2025.01 9C7FB9F628CE COMPONENTS=SDK \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE PetaLinux_NoSuport_Eval xilinxd 2025.01 060C65C1C4BD \
+COMPONENTS="petalinux_arch_microblaze petalinux_arch_ppc \
+petalinux_arch_zynq" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE TPG xilinxd 2025.01 3F60F73267C6 COMPONENTS="v_tc v_tpg" \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDAccel xilinxd 2025.01 288274FBD3D8 COMPONENTS="ap_opencl \
+Analyzer Synthesis Simulation Implementation HLS \
+PartialReconfiguration" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2025.01 472D2EFDB2AF \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE board_vivado_system_edition xilinxd 2025.01 35F7C8B06A62 \
+COMPONENTS="PartialReconfiguration SDK SysGen HLS Analyzer \
+Simulation" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDSoC_Tools xilinxd 2025.01 9834234D819E COMPONENTS="ap_cc \
+Simulation Analyzer SDK ap_sdsoc XC7Z020 XC7Z045 XC7Z030 \
+XC7Z010 XC7Z100 xc7z015 xc7z035" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2025.01 472D2EFDB2AF \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_ML_Enterprise_Edition xilinxd 2025.01 D3CC5942F7F1 \
+COMPONENTS="Analyzer HLS Implementation PartialReconfiguration \
+SDK Simulation Synthesis" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
