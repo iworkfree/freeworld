@@ -143,9 +143,19 @@
 // | asyncFIFO                                   |                                   (top) | 2124(0.18%) | 2124(0.18%) | 0(0.00%) | 0(0.00%) | 1366(0.06%) | 0(0.00%) | 0(0.00%) | 512(53.33%) |   0(0.00%) |
 
 
+// Now some MATH to figure out how many clock cycles to read out 2K lines.
+// Assume we have 4 lines per URAM. 2K/4 = 512 URAMS. 512 * 4 = 2048 Lines.
+// 4 LANES * 8 Sub-Arrays. Each Sub-Array has 128 Pixels. 128 * 8 * 4 = 4096.
+// Each LANE: 1024/64 = 16 Cycles to read a line. 16 * 4 = 64 Cycles to read 1 line with 4 Lanes.
+// We have 2048 Lines. 2048 * 64 = 131072 Cycles to read 2048 Lines.
+// IF we had 160 MHz  With 4 Pixels per clock. which means period is 6.25 ns. 131072 * 6.25 = 819200 ns. 819200/1e9 = 0.8192 seconds.
+// IF we had 160 MHz but read 8 pixels per clock, 1024/128 = 8.   8 * 4 = 32 Cycles to read a line. 32 * 2048 = 65536 Cycles. 65536 * 6.25 = 409600 ns. 409600/1e9 = 0.4096 seconds.
+// IF we had 320 MHz and read 8 pixels per clock, 1024/128 = 8.   8 * 4 = 32 Cycles to read a line. 32 * 2048 = 65536 Cycles. 65536 * 3.125 = 204800 ns. 204800/1e9 = 0.2048 seconds.
 
-
-
+// IF First Line Start to Second Line start is: 136ns + 6400ns = 6536ns. 6536/1e9 = 0.006536 seconds.
+// 1024 Cycles per Line. 1024 * 6.25 = 6400 ns. 6400/1e9 = 0.0064 seconds.
+// Then Reading 2048 Lines is 6536ns * 2048 = 13391872 ns. 13391872/1e9 = 13.391872 seconds.   FULL FRAME READOUT TIME
+// Can we do 30 frames a second? 13.4seconds * 30 = 402 seconds. 402/60 = 6.7 minutes.
 
 
 
